@@ -46,3 +46,12 @@ This project is created as part of **Week 2 – Making Decisions & Repeating Tas
 4. Run the program using:
    ```bash
    python grade_calculator.py
+
+**📊 Sample Output**
+Enter student name: Priya
+Enter marks (0-100): 85
+
+RESULT FOR PRIYA
+Marks: 85/100
+Grade: B
+Message: Very Good! Keep it up!

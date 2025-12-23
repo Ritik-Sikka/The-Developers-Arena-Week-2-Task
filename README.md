@@ -1,24 +1,24 @@
 # Student Grade Calculator (Python)
 
-## 📌 Project Overview
-The Student Grade Calculator is a beginner-friendly Python program that calculates a student's grade based on their marks.  
-It uses decision-making, loops, functions, and basic error handling to ensure correct and user-friendly output.
+## Project Overview
+This project is a beginner-friendly Python program that calculates a student's grade based on marks entered by the user.  
+It uses decision-making, loops, functions, and basic error handling to ensure correct and reliable output.
 
-This project is created as part of **Week 2 – Making Decisions & Repeating Tasks in Python**.
+This project is part of **Week 2 – Making Decisions & Repeating Tasks in Python**.
 
 ---
 
-## 🎯 Features
+## Features
 - Takes student name and marks as input
 - Validates marks (0–100 only)
-- Assigns grades using if-elif-else
+- Uses if-elif-else for grading
 - Displays encouraging messages
-- Uses functions for clean code structure
+- Uses functions for clean code
 - Handles invalid inputs safely
 
 ---
 
-## 🧠 Grading Logic
+## Grading Logic
 | Marks Range | Grade |
 |------------|-------|
 | 90–100 | A |
@@ -29,29 +29,7 @@ This project is created as part of **Week 2 – Making Decisions & Repeating Tas
 
 ---
 
-## 🛠️ Technologies Used
-- Python 3
-- Basic Python concepts:
-  - if-elif-else
-  - while loop
-  - functions
-  - try-except
-
----
-
-## ▶️ How to Run the Program
-1. Install Python 3
-2. Clone or download this repository
-3. Open terminal or command prompt
-4. Run the program using:
-   ```bash
-   python grade_calculator.py
-
-**📊 Sample Output**
-Enter student name: Priya
-Enter marks (0-100): 85
-
-RESULT FOR PRIYA
-Marks: 85/100
-Grade: B
-Message: Very Good! Keep it up!
+## How to Run
+1. Make sure Python 3 is installed
+2. Open terminal or command prompt
+3. Run the program using:
